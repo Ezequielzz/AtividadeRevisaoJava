@@ -1,0 +1,13 @@
+1 - ler a primeira nota
+2 - ler a segunda nota
+3 - calcular a media das notas
+4 - mostrar a media calculada
+5 - ler a frequencia em %
+6 - digite o numero de faltas do aluno
+7 - calcular a % de frequencia
+8 - mostrar a % de frequencia
+9 - se (media>=50% e frequencia>=75%){
+    entao aluno aprovado
+} senao {
+    entao aluno reprovado
+}
